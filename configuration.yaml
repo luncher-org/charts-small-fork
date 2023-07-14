@@ -1,0 +1,6 @@
+# helmRepo:
+#   cname: charts.nicholasSUSE.io
+
+validate:
+  url: https://github.com/nicholasSUSE/charts-small-fork.git
+  branch: main
