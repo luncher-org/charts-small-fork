@@ -20,6 +20,6 @@ add below linux tolerations to workloads could be scheduled to those linux nodes
 {{- end -}}
 
 {{- define "linux-node-selector" -}}
-kubernetes.io/os: linux
+kubernetes.io/os: windows
 {{- end -}}
 
