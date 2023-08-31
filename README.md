@@ -1,3 +1,21 @@
+# Charts Small Fork 
+
+## Objective
+
+Helm Repository to be used by rancher for testing Mapps teams functionalities. 
+
+---
+
+### Directives
+
+- **DO NOT EDIT** the branches `main` and `test-1`.
+- They are being used on automated integrated and unit tests. 
+- You are free to add any other branches.
+
+---
+
+#### How-to-use
+
 - 2 Branches for testing `Ensure Head and Update` methods from `rancher/pkg/catalogv2/git`. 
     - Branch: `main`
         - Charts
