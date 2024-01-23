@@ -2130,7 +2130,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: c263169fdab8509d1503cc5e2ca857e9870839a3a236e0ba9cfc1f0ed6b97ba2
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2156,7 +2156,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: ac2050eb28343f085cee503cce5309c0a49c8c09d484d053d84345012d2a9b36
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2182,7 +2182,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: 05f54492a756edd8d2611a6848e8203111b9bb80a32556395a5909aa7ce05203
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2208,7 +2208,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: cca4c3ff10c89e39f7b2ab3c6eb7b28937125a6b06b8af916525b43c8d8daddb
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2234,7 +2234,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: 4b6789bc256cfbdf251a0f18a13933f0a66dfcb21ccc18cfb8c16c751729c956
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2260,7 +2260,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: e63637a98dc09d05206ecdd1132ab8a4b104b700c279be34a55f7cf046bda165
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2286,7 +2286,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: 17b75041ef89ce19d1c86a879c2000d8c4ea560852d318fdd736dfb438a33332
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2311,7 +2311,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: 320896880df9cb6ed8a070f7c58f305e3e4c704da4e305c6bed6a0b875acd4eb
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2336,7 +2336,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: 4fab9c68b626d1b5f236956948190d864905670b28a4a07c870bbc9165f3de0e
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2361,7 +2361,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: cbd480d789c86702268c094e973584046aa100323cd39f782caa88ff01ee6e9d
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2384,7 +2384,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: 9267f54fe79c480a93d3c4a1ad54ba13bab92cb25198df5870df38ebb8fdc1a2
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2407,7 +2407,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: 1b6a553759a1f282f176a862ec2d8d5c0c42647b6adebef606a89d81d305da5c
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2430,7 +2430,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: fb3d71ec74a4772252d5a72b957e1222b5458c02bb1fc1e77a35bd670aeb750d
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2453,7 +2453,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: 7059f72ef22d55ace9c51af78307ec3000eb91f56feb150773033bfcadcb6cad
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2476,7 +2476,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: 2153078632ec156c1e98104011fefd1139065e60df2d50c68c2df1db574b106c
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2499,7 +2499,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: 20b1dd98699d72e33c5224ae5ad8513c31d0e6dfc4b38c5a7977c2a637e1c5b7
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2521,7 +2521,7 @@ entries:
     description: The cis-operator enables running CIS benchmark security scans on
       a kubernetes cluster
     digest: 885df181f4a71321157413c3f651dcca2e3c750c8512d4dd9ae301a1511e01c2
-    icon: https://charts.rancher.io/assets/logos/cis-kube-bench.svg
+    icon: file://assets/logos/cis-kube-bench.svg
     keywords:
     - security
     name: rancher-cis-benchmark
@@ -2768,5 +2768,3 @@ entries:
     - assets/rancher-cis-benchmark-crd/rancher-cis-benchmark-crd-1.0.100.tgz
     version: 1.0.100
 generated: "2022-02-25T11:29:45.848360265+05:30"
-
-
