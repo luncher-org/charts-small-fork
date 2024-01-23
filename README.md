@@ -1,22 +1,32 @@
-# Charts Small Fork 
+# Charts Small Fork
 
 ## Objective
 
-Helm Repository to be used by rancher for testing Mapps teams functionalities. 
+Helm Repository to be used by rancher for testing Mapps teams functionalities.
+
+Cloning the original repository (`rancher/charts`) takes time due to its size,
+also, the repository is always being updated which makes it harder for hard-coding values to be tested.
+
+This repository is like a freeze in time with very few charts for the cloning at our Drone testing pipeline to be as fast as it can while allowing hard-coded values in the tests.
+
+This repository is not used to test the **specific Chart functionalities**.
+e.g: We test changing branches of the repository which holds different chart versions and if the available charts gets the newer versions.
+
+This repository should only be similar to the `rancher/charts` structure with very few charts so we don't add more time to the Drone build pipeline.
 
 ---
 
 ### Directives
 
 - **DO NOT EDIT** the branches `main` and `test-1`.
-- They are being used on automated integrated and unit tests. 
+- They are being used on automated integrated and unit tests.
 - You are free to add any other branches.
 
 ---
 
 #### How-to-use
 
-- 2 Branches for testing `Ensure Head and Update` methods from `rancher/pkg/catalogv2/git`. 
+- 2 Branches for testing `Ensure Head and Update` methods from `rancher/pkg/catalogv2/git`.
     - Branch: `main`
         - Charts
         1. `fleet` until version: `102.1.0+up0.7.0-rc.2`
