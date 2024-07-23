@@ -47,3 +47,7 @@ This repository should only be similar to the `rancher/charts` structure with ve
         6. `rancher-cis-benchmark-crd` until version: `3.0.0`
         7. `rancher-aks-operator` until version: `101.0.0+up1.0.7`
         8. `rancher-aks-operator-crd` until version: `101.0.0+up1.0.7`
+    - Branch: `aks-integration-test-working-charts`
+        - Charts used in tests:
+        1. `rancher-aks-operator` version: `104.0.2+up1.9.0` (working)
+        2. `rancher-aks-operator-crd` version: `104.0.2+up1.9.0` (working)
